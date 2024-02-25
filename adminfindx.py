@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import requests
 import time
 from colorama import init, Fore, Style
@@ -274,7 +276,7 @@ def loading_animation():
             print("\b" + char, end="", flush=True)
 
 if __name__ == "__main__":
-    print(Style.BRIGHT + Fore.CYAN + r"""
+    print(Style.BRIGHT + Fore.CYAN + """
            _____  __  __ _____ _   _ ______ _____ _   _ _______   __
      /\   |  __ \|  \/  |_   _| \ | |  ____|_   _| \ | |  __ \ \ / /
     /  \  | |  | | \  / | | | |  \| | |__    | | |  \| | |  | \ V / 
@@ -282,7 +284,7 @@ if __name__ == "__main__":
   / ____ \| |__| | |  | |_| |_| |\  | |     _| |_| |\  | |__| / . \ 
  /_/    \_\_____/|_|  |_|_____|_| \_|_|    |_____|_| \_|_____/_/ \_\
                                  
-                                                    ᗷY ᑎ E ᗯ T O ᑎ                                                        
+                                                    BY NEWTON                                                        
 
 """ + Style.RESET_ALL)
     print(Style.BRIGHT + Fore.MAGENTA + "Welcome to ADMINFINDX!" + Style.RESET_ALL)
