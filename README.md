@@ -1,43 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ADMINFINDX</title>
-</head>
-<body>
-    <h1>ADMINFINDX</h1>
-    <p>ADMINFINDX is a powerful admin page finder tool designed to streamline the process of identifying admin panels, login pages, and control panels within web applications.</p>
 
-    <h2>Features</h2>
-    <ul>
-        <li>Comprehensive list of common admin URLs</li>
-        <li>Stylish and user-attractive interface</li>
-        <li>Animation features for enhanced user experience</li>
-        <li>Highlights discovered admin pages for easy identification</li>
-    </ul>
+Absolutely! Here's a README template you can use to explain the power and installation setup of your tool:
 
-    <h2>Installation</h2>
-    <ol>
-        <li>Clone the repository:</li>
-    </ol>
-    <code>git clone https://github.com/newt3n/adminfindx.git</code>
-    <ol start="2">
-        <li>Navigate to the directory:</li>
-    </ol>
-    <code>cd adminfindx</code>
-    <ol start="3">
-        <li>Run the tool:</li>
-    </ol>
-    <code>python adminfindx.py</code>
+ADMINFINDX
+ADMINFINDX is a powerful admin page finder tool designed to streamline the process of identifying admin panels, login pages, and control panels within web applications.
 
-    <h2>Usage</h2>
-    <p>Simply run the tool and follow the prompts to start searching for admin pages.</p>
+Features
+Comprehensive list of common admin URLs
+Stylish and user-attractive interface
+Animation features for enhanced user experience
+Highlights discovered admin pages for easy identification
+Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/adminfindx.git
+Navigate to the directory:
+bash
+Copy code
+cd adminfindx
+Run the tool:
+bash
+Copy code
+python adminfindx.py
+Usage
+Simply run the tool and follow the prompts to start searching for admin pages.
 
-    <h2>Contributions</h2>
-    <p>Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request.</p>
+Contributions
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request.
 
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-</body>
-</html>
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
