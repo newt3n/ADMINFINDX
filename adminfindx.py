@@ -267,7 +267,7 @@ def find_admin(url):
     return found_admin_pages
 
 def loading_animation():
-chars = "/—\\| "  # Animation characters
+    chars = "/\ "  # Animation characters
     for _ in range(20):
         for char in chars:
             time.sleep(0.1)
