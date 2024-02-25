@@ -21,7 +21,7 @@
     <ol>
         <li>Clone the repository:</li>
     </ol>
-    <code>git clone https://github.com/newt3n/adminfindx.git</code>
+    <code>git clone https://github.com/yourusername/adminfindx.git</code>
     <ol start="2">
         <li>Navigate to the directory:</li>
     </ol>
