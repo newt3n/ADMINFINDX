@@ -24,7 +24,7 @@ ADMINFINDX is a powerful admin page finder tool designed to streamline the proce
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/adminfindx.git
+    git clone https://github.com/newt3n/adminfindx.git
     ```
 
 2. **Navigate to the directory:**
